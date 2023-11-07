@@ -1,10 +1,10 @@
-package com.ruturaj.springbootbackend.controller;
+package com.ruturaj.controller;
 
 
 import java.util.List;
 
-import com.ruturaj.springbootbackend.model.User;
-import com.ruturaj.springbootbackend.service.UserService;
+import com.ruturaj.model.User;
+import com.ruturaj.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;

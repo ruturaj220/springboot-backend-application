@@ -1,4 +1,4 @@
-package com.ruturaj.springbootbackend.exception;
+package com.ruturaj.exception;
 
 import java.util.HashMap;
 import java.util.Map;

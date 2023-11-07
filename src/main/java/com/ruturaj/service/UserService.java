@@ -1,7 +1,7 @@
 package com.ruturaj.service;
 
 
-import com.ruturaj.springbootbackend.exception.UserNotFoundException;
+import com.ruturaj.exception.UserNotFoundException;
 import com.ruturaj.model.User;
 import com.ruturaj.repository.UserRepository;
 import java.util.List;
