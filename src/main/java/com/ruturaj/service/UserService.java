@@ -1,9 +1,9 @@
-package com.ruturaj.springbootbackend.service;
+package com.ruturaj.service;
 
 
 import com.ruturaj.springbootbackend.exception.UserNotFoundException;
-import com.ruturaj.springbootbackend.model.User;
-import com.ruturaj.springbootbackend.repository.UserRepository;
+import com.ruturaj.model.User;
+import com.ruturaj.repository.UserRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

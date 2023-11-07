@@ -1,6 +1,6 @@
-package com.ruturaj.springbootbackend.repository;
+package com.ruturaj.repository;
 
-import com.ruturaj.springbootbackend.model.User;
+import com.ruturaj.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.ruturaj.springbootbackend.model;
+package com.ruturaj.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
